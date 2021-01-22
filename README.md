@@ -38,7 +38,7 @@ OpenEBS itself is deployed as just another container on your host and enables st
 - A common layer so whether you are running on AKS, or your bare metal, or GKE, or AWS - your wiring and developer experience for storage services is as similar as possible.
 - Management of tiering to and from S3 and other targets.
 
-An added advantage of being a completely Kubernetes native solution is that administrators and developers can interact and manage OpenEBS using all the wonderful tooling that is available for Kubernetes like kubectl, Helm, Prometheus, Grafana, Weave Scope, etc.
+An added advantage of being a completely Kubernetes not positive solution is that administrators and developers can interact and manage OpenEBS using all the awesome tooling that is available for Kubernetes like kubectl, Helm, Prometheus, Grafana, Weave Scope, etc.
 
 **Our vision** is simple: let storage and storage services for persistent workloads be fully integrated into the environment so that each team and workload benefits from the granularity of control and Kubernetes native behaviour.
 
